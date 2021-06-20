@@ -1,4 +1,5 @@
-#Run
+-Run:
 npm install
+npx expo start
 
-#Simple To-Do List using React Native and Expo
+ _Simple To-Do List using React Native and Expo_
